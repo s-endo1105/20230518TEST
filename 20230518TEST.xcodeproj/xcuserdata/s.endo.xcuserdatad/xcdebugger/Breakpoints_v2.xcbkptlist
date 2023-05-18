@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C509010F-D947-431F-9589-EFDB16E5F717"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A18AB23C-829D-47D8-B7BA-64BF5E5889A7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchAnimeChanQuote(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42D818EF-E62B-4ACF-9072-2749D861112B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchAnimeChanQuote(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1E4CB9A9-A271-423B-8A5B-24E3F4426E1A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "fetchAnimeChanQuote(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97B866F5-EF3D-41AF-A378-D3D8B6E5DE37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "convertAnimeChanQuoteIndexList(responseQuoteList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A4CD7962-7C01-4B2B-A2BC-0D6BA775695F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "checkDesplayScrollBottomCell(displayQuote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A4CD7962-7C01-4B2B-A2BC-0D6BA775695F - 941e51eac7daaff6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteListViewModel.fetchAnimeChanQuote(isLoadMore: Swift.Bool) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "A4CD7962-7C01-4B2B-A2BC-0D6BA775695F - ea3417791e2a2f41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;_0230518TEST.AnimeChanQuote&gt;, Swift.Error&gt;) -&gt; () in _0230518TEST.AnimeChanQuoteListViewModel.fetchAnimeChanQuote(isLoadMore: Swift.Bool) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A4CD7962-7C01-4B2B-A2BC-0D6BA775695F - efbb4272fdc85230"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteListViewModel.checkDesplayScrollBottomCell(displayQuote: _0230518TEST.AnimeChanQuote) -&gt; Swift.Bool"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDAE6B02-E053-444A-8319-EC3A888F2F6A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "checkDesplayScrollBottomCell(displayQuote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BDAE6B02-E053-444A-8319-EC3A888F2F6A - ea3417791e2a2f20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;_0230518TEST.AnimeChanQuote&gt;, Swift.Error&gt;) -&gt; () in _0230518TEST.AnimeChanQuoteListViewModel.fetchAnimeChanQuote(isLoadMore: Swift.Bool) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "BDAE6B02-E053-444A-8319-EC3A888F2F6A - efbb4272fdc85276"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteListViewModel.checkDesplayScrollBottomCell(displayQuote: _0230518TEST.AnimeChanQuote) -&gt; Swift.Bool"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "760">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7155602-ADE9-4720-B86E-2C47E02D856C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "checkDesplayScrollBottomCell(displayQuote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A7155602-ADE9-4720-B86E-2C47E02D856C - 941e51eac7daac13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteListViewModel.fetchAnimeChanQuote(isLoadMore: Swift.Bool) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "A7155602-ADE9-4720-B86E-2C47E02D856C - efbb4272fdc851f2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteListViewModel.checkDesplayScrollBottomCell(displayQuote: _0230518TEST.AnimeChanQuote) -&gt; Swift.Bool"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "942C0CC3-8D64-42BC-9F9D-C67170FD4F3D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "checkDesplayScrollBottomCell(displayQuote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "891FC278-219F-42A6-9964-93F4A0613990"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "convertAnimeChanQuoteIndexList(responseQuoteList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7F2E9D0A-F53F-482A-ADAB-A61CE2E88BFB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "98"
+            endingLineNumber = "98"
+            landmarkName = "convertAnimeChanQuoteIndexList(responseQuoteList:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C7EAA23-A143-4E92-870C-4F1EA214286D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33762118-C0F2-4667-9BB8-24ACDE94F578"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF60C86C-C317-42EF-A4DC-56A77758A320"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A2B74A5-3F75-4CEC-8EEB-F5C40E891B93"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50E53F02-E04C-43F6-B884-AC94CAD963CA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A5336D69-314E-42FC-8060-E465B1EEBA76"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E811D64B-DC51-4C0C-A552-0969CDDC37F2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA1F7D40-199F-49F6-9D90-50D97E9FF1A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteList/AnimeChanQuoteListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "fetchAnimeChanQuoteTitle(isLoadMore:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A32C020-C927-47CD-B880-76409BB696A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetchLocalFavorite(animeChanQuote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2A32C020-C927-47CD-B880-76409BB696A0 - 6b8cba925e66c735"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteDetailViewModel.updateFavorite() -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "2A32C020-C927-47CD-B880-76409BB696A0 - fe5c221d39f8c130"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteDetailViewModel.fetchLocalFavorite(animeChanQuote: _0230518TEST.AnimeChanQuote) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "102AF71A-6933-46AD-9115-EE4C2A753C07"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "updateFavorite(animeChanQuote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "102AF71A-6933-46AD-9115-EE4C2A753C07 - 6afac3880ab042e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteDetailViewModel.updateFavorite(animeChanQuote: _0230518TEST.AnimeChanQuote) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "640">
+               </Location>
+               <Location
+                  uuid = "102AF71A-6933-46AD-9115-EE4C2A753C07 - 6afac3880ab04105"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteDetailViewModel.updateFavorite(animeChanQuote: _0230518TEST.AnimeChanQuote) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "640">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "82142599-7E82-45AC-9B4D-F2AB1A442E42"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "updateFavorite(animeChanQuote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "82142599-7E82-45AC-9B4D-F2AB1A442E42 - 6afac3880ab04147"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteDetailViewModel.updateFavorite(animeChanQuote: _0230518TEST.AnimeChanQuote) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "588">
+               </Location>
+               <Location
+                  uuid = "82142599-7E82-45AC-9B4D-F2AB1A442E42 - 6afac3880ab041e8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteDetailViewModel.updateFavorite(animeChanQuote: _0230518TEST.AnimeChanQuote) -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "588">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B3C0CE5-3285-449A-BE82-BEB433B1273F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "fetchLocalFavorite(animeChanQuote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2C6BC27-FDD1-4117-B779-E5CEEC100B37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "fetchLocalFavorite(animeChanQuote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35DB2774-E955-4798-B4F5-14DA0D18BD7B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "updateFavorite(animeChanQuote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A5B1C46-0419-4618-B60E-991EC5FA2622"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteDetail/AnimeChanQuoteDetailViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "updateFavorite(animeChanQuote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5077E3F2-485F-4C11-96EC-7D2DB2F3B141"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/Component/AnimeChanQuoteFavList/AnimeChanQuoteFavListViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "fetchLoaclFavAnimeChanFavList()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5077E3F2-485F-4C11-96EC-7D2DB2F3B141 - 80b0b5e044cbbfc7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteFavListViewModel.fetchLoaclFavAnimeChanFavList() -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteFavList/AnimeChanQuoteFavListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "5077E3F2-485F-4C11-96EC-7D2DB2F3B141 - 80b0b5e044cbbfa0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "_0230518TEST.AnimeChanQuoteFavListViewModel.fetchLoaclFavAnimeChanFavList() -&gt; ()"
+                  moduleName = "20230518TEST"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/s.endo/work/Repository/20230518TEST/20230518TEST/Classes/Component/AnimeChanQuoteFavList/AnimeChanQuoteFavListViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0605DA58-F204-495D-B8A4-E368F614BA99"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/DataSource/Sqlite/fav/FavDatastore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "findAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "112490C9-944D-4AB0-8B4A-6DF717BEE430"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/DataSource/Sqlite/fav/FavDatastore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "findAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "854C8464-1E0E-4D63-AF8B-C0CE91E0966A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/DataSource/Sqlite/fav/FavDatastore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "findAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2607B15-D874-4CAF-9FA1-E46F88CDFC5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "20230518TEST/Classes/DataSource/Sqlite/fav/FavDatastore.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "findAll()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
